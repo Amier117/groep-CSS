@@ -1,0 +1,19 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: blueviolet;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1,6;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
